@@ -2,6 +2,8 @@ package ModeloVistaControlador;
 import java.util.GregorianCalendar;
 
 public class Empleado {
+
+	
 	
 	int num;
 	String nom;
